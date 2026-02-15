@@ -8,6 +8,9 @@ tarballs/
 packages/**/*.tgz
 .errors/
 
+# Suna project (cloned repository - too large for PR)
+suna-project/
+
 # dependencies
 node_modules
 package-lock.json
